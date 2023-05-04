@@ -66,7 +66,7 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white&style=plastic"><
+      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white&style=plastic">
       <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&style=plastic">
       <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipseide&logoColor=white&style=plastic">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=plastic">
