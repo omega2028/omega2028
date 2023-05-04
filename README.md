@@ -13,3 +13,9 @@
   <a href="#">
     <img alt="followers" title="Total number of views for my profile" src="https://komarev.com/ghpvc/?username=omega2028&style=for-the-badge&logo=person-add"/></a>
 </p>
+
+# 🪐 About Me
+
+* In my free time, I like to do some Minecraft developpment
+* I'm a student developper, i'm in third degree in computer science, i'm working in a company the half of the time
+* I'm a video games fan, i'm playing Minecraft, RocketLeague, Brawlhalla, Starblast, ...
