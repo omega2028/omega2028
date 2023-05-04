@@ -19,7 +19,7 @@
 * I'm a student developper, i'm in third degree in computer science, i'm working in a company the half of the time.
 * I'm a video games fan, i'm playing Minecraft, RocketLeague, Brawlhalla, Starblast, ...
 
-## 📊 My Profile Statistics <img align="right" alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeremyTremblay21212%2Fhit-counter&style=for-the-badge">
+## 📊 My Profile Statistics <img align="right" alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomega20281212%2Fhit-counter&style=for-the-badge">
 
 ### 🧮 Global stats
 
