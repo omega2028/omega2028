@@ -16,6 +16,6 @@
 
 # 🪐 About Me
 
-* In my free time, I like to do some Minecraft developpment
+* In my free time, I like to do some Minecraft developpment 🧊
 * I'm a student developper, i'm in third degree in computer science, i'm working in a company the half of the time
 * I'm a video games fan, i'm playing Minecraft, RocketLeague, Brawlhalla, Starblast, ...
