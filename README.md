@@ -16,6 +16,6 @@
 
 # 🪐 About Me
 
-* In my free time, I like to create some plugins with ![image](https://user-images.githubusercontent.com/90349348/236207160-d1cffe91-b7e9-4a59-8b9b-21ff9d62dbb8.png) on ![image](https://user-images.githubusercontent.com/90349348/236207276-22c661d2-1319-4221-8d59-eb5cb920c4e1.png)
+* In my free time, I like to create some plugins with <div style="height: 1em">[image](https://user-images.githubusercontent.com/90349348/236207160-d1cffe91-b7e9-4a59-8b9b-21ff9d62dbb8.png)</div> on ![image](https://user-images.githubusercontent.com/90349348/236207276-22c661d2-1319-4221-8d59-eb5cb920c4e1.png)
 * I'm a student developper, i'm in third degree in computer science, i'm working in a company the half of the time
 * I'm a video games fan, i'm playing Minecraft, RocketLeague, Brawlhalla, Starblast, ...
