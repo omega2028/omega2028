@@ -55,7 +55,7 @@
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-red">
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🗄️ Databases </h3>
 
   <p>
       <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-blue">
