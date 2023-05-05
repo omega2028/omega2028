@@ -13,6 +13,9 @@
   <a href="#">
     <img alt="followers" title="Total number of views for my profile" src="https://komarev.com/ghpvc/?username=omega2028&style=for-the-badge&logo=person-add"/></a>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="Typing SVG" />
+</p>
 
 # 🪐 About Me
 * In my free time, I like to create some plugins with Paper on Minecraft.
@@ -89,9 +92,5 @@
       <img alt="Mac OS" src="https://img.shields.io/badge/Mac%20OS-000000?logo=macos&logoColor=white&style=plastic">
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic">
       <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic">
-  </p>
-  
-  <p align="center">
-    <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="Typing SVG" />
   </p>
  
