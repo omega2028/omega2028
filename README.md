@@ -90,3 +90,8 @@
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic">
       <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=plastic">
   </p>
+  
+  <p align="center">
+    <img src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" alt="Typing SVG" />
+  </p>
+ 
