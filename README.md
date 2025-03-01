@@ -15,7 +15,7 @@
 </p>
 
 # 🪐 About Me
-* Professional developper (Junior).
+* Professional developper.
 * Working on a Minecraft server named [MonsterQuest](https://discord.gg/zjHKhWV) (play.monsterquest.eu).
 
 ## 📊 My Profile Statistics <img align="right" alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomega20281212%2Fhit-counter&style=for-the-badge">
